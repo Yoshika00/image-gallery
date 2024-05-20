@@ -1,3 +1,3 @@
-#MImage_Gallery
+#Image_Gallery
 
 Demo -> https://image00gallery.netlify.app/
